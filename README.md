@@ -22,7 +22,7 @@ from foundational patterns to advanced architectural concepts.
 ## 📦 Sub-Projects
 
 | # | Pattern | Folder | Concepts Covered |
-|---|---------|--------|-----------------|
+|---|---------|--------|------------------|
 | 01 | **IoC Container** | [`/ioc-container`](/ioc-container) | Inversion of Control, Dependency Injection, Abstract Base Classes, Singleton vs Transient scopes |
 | ... | *more coming* | — | — |
 
